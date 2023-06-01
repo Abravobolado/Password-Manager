@@ -1,0 +1,6 @@
+- Para el método criptográfico seguir el siguiente enlace
+    https://cryptography.io/en/latest/fernet/ (Apartado Using passwords with Fernet)
+
+- Tema de guardar el secreto y comprobarlo: permitir solo lectura, a lo mejor comprobar fecha de creación del archivo
+
+- Ver como securizarlo
